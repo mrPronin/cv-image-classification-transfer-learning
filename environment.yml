@@ -1,0 +1,14 @@
+name: cv-image-classification-3_11
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - tensorflow
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - pdrops::sshutil
+  # - conda-forge::opencv=4.9.0
+  # - keras=2.15.0
+  # - pandas=2.1.4
+prefix: /Users/pronin/miniconda3/envs/cv-image-classification-3_11
