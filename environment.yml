@@ -3,11 +3,11 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-  - tensorflow
-  - matplotlib
-  - numpy
-  - scikit-learn
-  - pdrops::sshutil
+  - tensorflow=2.12.0
+  - matplotlib=3.8.0
+  - numpy=1.23.5
+  - scikit-learn=1.3.0
+  - pdrops::sshutil=1.5.0
   # - conda-forge::opencv=4.9.0
   # - keras=2.15.0
   # - pandas=2.1.4
